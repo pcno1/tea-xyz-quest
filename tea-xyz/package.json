@@ -1,0 +1,9 @@
+{
+  "name": "@mckmck_npm/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@mckmck_npm",
+  "repository": "https://github.com/pcno1/tea-xyz-quest",
+  "license": "ISC"
+}
